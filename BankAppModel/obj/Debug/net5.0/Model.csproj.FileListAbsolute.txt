@@ -1,0 +1,30 @@
+C:\Users\hp\source\repos\winform jason\BankAppModel\bin\Debug\net5.0\Model.deps.json
+C:\Users\hp\source\repos\winform jason\BankAppModel\bin\Debug\net5.0\Model.dll
+C:\Users\hp\source\repos\winform jason\BankAppModel\bin\Debug\net5.0\ref\Model.dll
+C:\Users\hp\source\repos\winform jason\BankAppModel\bin\Debug\net5.0\Model.pdb
+C:\Users\hp\source\repos\winform jason\BankAppModel\bin\Debug\net5.0\Commons.dll
+C:\Users\hp\source\repos\winform jason\BankAppModel\bin\Debug\net5.0\Commons.pdb
+C:\Users\hp\source\repos\winform jason\BankAppModel\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\winform jason\BankAppModel\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\winform jason\BankAppModel\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\winform jason\BankAppModel\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\Users\hp\source\repos\winform jason\BankAppModel\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\winform jason\BankAppModel\obj\Debug\net5.0\Model.csproj.CopyComplete
+C:\Users\hp\source\repos\winform jason\BankAppModel\obj\Debug\net5.0\Model.dll
+C:\Users\hp\source\repos\winform jason\BankAppModel\obj\Debug\net5.0\ref\Model.dll
+C:\Users\hp\source\repos\winform jason\BankAppModel\obj\Debug\net5.0\Model.pdb
+C:\Users\hp\source\repos\winform_jason\BankAppModel\bin\Debug\net5.0\Model.deps.json
+C:\Users\hp\source\repos\winform_jason\BankAppModel\bin\Debug\net5.0\Model.dll
+C:\Users\hp\source\repos\winform_jason\BankAppModel\bin\Debug\net5.0\ref\Model.dll
+C:\Users\hp\source\repos\winform_jason\BankAppModel\bin\Debug\net5.0\Model.pdb
+C:\Users\hp\source\repos\winform_jason\BankAppModel\bin\Debug\net5.0\Commons.dll
+C:\Users\hp\source\repos\winform_jason\BankAppModel\bin\Debug\net5.0\Commons.pdb
+C:\Users\hp\source\repos\winform_jason\BankAppModel\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\winform_jason\BankAppModel\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\winform_jason\BankAppModel\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\winform_jason\BankAppModel\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\Users\hp\source\repos\winform_jason\BankAppModel\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\winform_jason\BankAppModel\obj\Debug\net5.0\Model.csproj.CopyComplete
+C:\Users\hp\source\repos\winform_jason\BankAppModel\obj\Debug\net5.0\Model.dll
+C:\Users\hp\source\repos\winform_jason\BankAppModel\obj\Debug\net5.0\ref\Model.dll
+C:\Users\hp\source\repos\winform_jason\BankAppModel\obj\Debug\net5.0\Model.pdb

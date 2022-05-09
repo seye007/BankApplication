@@ -1,0 +1,42 @@
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\bin\Debug\net5.0\BankServices.deps.json
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\bin\Debug\net5.0\BankServices.dll
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\bin\Debug\net5.0\ref\BankServices.dll
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\bin\Debug\net5.0\BankServices.pdb
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\bin\Debug\net5.0\Commons.dll
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\bin\Debug\net5.0\Contracts.dll
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\bin\Debug\net5.0\DataBase.dll
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\bin\Debug\net5.0\Model.dll
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\bin\Debug\net5.0\Contracts.pdb
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\bin\Debug\net5.0\DataBase.pdb
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\bin\Debug\net5.0\Model.pdb
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\bin\Debug\net5.0\Commons.pdb
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\obj\Debug\net5.0\BankServices.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\obj\Debug\net5.0\BankServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\obj\Debug\net5.0\BankServices.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\obj\Debug\net5.0\BankServices.AssemblyInfo.cs
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\obj\Debug\net5.0\BankServices.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\obj\Debug\net5.0\BankServices.csproj.CopyComplete
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\obj\Debug\net5.0\BankServices.dll
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\obj\Debug\net5.0\ref\BankServices.dll
+C:\Users\hp\source\repos\winform jason\BankAppImplementation\obj\Debug\net5.0\BankServices.pdb
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\bin\Debug\net5.0\BankServices.deps.json
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\bin\Debug\net5.0\BankServices.dll
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\bin\Debug\net5.0\ref\BankServices.dll
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\bin\Debug\net5.0\BankServices.pdb
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\bin\Debug\net5.0\Commons.dll
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\bin\Debug\net5.0\Contracts.dll
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\bin\Debug\net5.0\DataBase.dll
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\bin\Debug\net5.0\Model.dll
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\bin\Debug\net5.0\Contracts.pdb
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\bin\Debug\net5.0\DataBase.pdb
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\bin\Debug\net5.0\Model.pdb
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\bin\Debug\net5.0\Commons.pdb
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\obj\Debug\net5.0\BankServices.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\obj\Debug\net5.0\BankServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\obj\Debug\net5.0\BankServices.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\obj\Debug\net5.0\BankServices.AssemblyInfo.cs
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\obj\Debug\net5.0\BankServices.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\obj\Debug\net5.0\BankServices.csproj.CopyComplete
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\obj\Debug\net5.0\BankServices.dll
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\obj\Debug\net5.0\ref\BankServices.dll
+C:\Users\hp\source\repos\winform_jason\BankAppImplementation\obj\Debug\net5.0\BankServices.pdb

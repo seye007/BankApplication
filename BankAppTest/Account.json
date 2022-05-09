@@ -1,0 +1,4 @@
+{"DateCreated":"03-21-2022","Id":1,"CustomerId":1,"AccountNumber":"1111534753","AccountType":1,"Balance":10500.0}
+{"DateCreated":"03-21-2022","Id":2,"CustomerId":1,"AccountNumber":"1111305249","AccountType":1,"Balance":2400.0}
+{"DateCreated":"03-21-2022","Id":3,"CustomerId":2,"AccountNumber":"1111550034","AccountType":2,"Balance":5500.0}
+{"DateCreated":"03-22-2022","Id":4,"CustomerId":3,"AccountNumber":"1111433253","AccountType":1,"Balance":0.0}

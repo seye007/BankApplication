@@ -1,0 +1,306 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppImplementation\\BankAccountImplementation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppContracts\\BankAppContracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppContracts\\BankAppContracts.csproj",
+        "projectName": "BankAppContracts",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppContracts\\BankAppContracts.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppModel\\BankAppModel.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppModel\\BankAppModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppDataBase\\BankAppDataBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppDataBase\\BankAppDataBase.csproj",
+        "projectName": "BankAppDataBase",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppDataBase\\BankAppDataBase.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppDataBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppContracts\\BankAppContracts.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppContracts\\BankAppContracts.csproj"
+              },
+              "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppModel\\BankAppModel.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppModel\\BankAppModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppImplementation\\BankAccountImplementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppImplementation\\BankAccountImplementation.csproj",
+        "projectName": "BankAccountImplementation",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppImplementation\\BankAccountImplementation.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppImplementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppContracts\\BankAppContracts.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppContracts\\BankAppContracts.csproj"
+              },
+              "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppDataBase\\BankAppDataBase.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppDataBase\\BankAppDataBase.csproj"
+              },
+              "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppModel\\BankAppModel.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppModel\\BankAppModel.csproj"
+              },
+              "C:\\Users\\hp\\source\\repos\\weekfour\\Commons\\Commons.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\weekfour\\Commons\\Commons.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppModel\\BankAppModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppModel\\BankAppModel.csproj",
+        "projectName": "BankAppModel",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppModel\\BankAppModel.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\weekfour\\BankAppModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\source\\repos\\weekfour\\Commons\\Commons.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\weekfour\\Commons\\Commons.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\weekfour\\Commons\\Commons.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\weekfour\\Commons\\Commons.csproj",
+        "projectName": "Commons",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\weekfour\\Commons\\Commons.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\weekfour\\Commons\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

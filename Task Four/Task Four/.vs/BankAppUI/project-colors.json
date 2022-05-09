@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8d453cc6-f8e1-43b9-8180-218a519923f5": {
+      "ProjectGuid": "8d453cc6-f8e1-43b9-8180-218a519923f5",
+      "DisplayName": "BankAppUI",
+      "ColorIndex": 0
+    },
+    "5b16dfb6-d406-4b44-bc93-b969e8f6ec27": {
+      "ProjectGuid": "5b16dfb6-d406-4b44-bc93-b969e8f6ec27",
+      "DisplayName": "BankAppCore",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

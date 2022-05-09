@@ -1,0 +1,38 @@
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\bin\Debug\net5.0\DataBase.deps.json
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\bin\Debug\net5.0\DataBase.dll
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\bin\Debug\net5.0\ref\DataBase.dll
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\bin\Debug\net5.0\DataBase.pdb
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\bin\Debug\net5.0\Commons.dll
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\bin\Debug\net5.0\Contracts.dll
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\bin\Debug\net5.0\Model.dll
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\bin\Debug\net5.0\Contracts.pdb
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\bin\Debug\net5.0\Model.pdb
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\bin\Debug\net5.0\Commons.pdb
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\obj\Debug\net5.0\DataBase.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\obj\Debug\net5.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\obj\Debug\net5.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\obj\Debug\net5.0\DataBase.AssemblyInfo.cs
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\obj\Debug\net5.0\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\obj\Debug\net5.0\DataBase.csproj.CopyComplete
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\obj\Debug\net5.0\DataBase.dll
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\obj\Debug\net5.0\ref\DataBase.dll
+C:\Users\hp\source\repos\winform jason\BankAppDataBase\obj\Debug\net5.0\DataBase.pdb
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\bin\Debug\net5.0\DataBase.deps.json
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\bin\Debug\net5.0\DataBase.dll
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\bin\Debug\net5.0\ref\DataBase.dll
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\bin\Debug\net5.0\DataBase.pdb
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\bin\Debug\net5.0\Commons.dll
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\bin\Debug\net5.0\Contracts.dll
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\bin\Debug\net5.0\Model.dll
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\bin\Debug\net5.0\Contracts.pdb
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\bin\Debug\net5.0\Model.pdb
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\bin\Debug\net5.0\Commons.pdb
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\obj\Debug\net5.0\DataBase.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\obj\Debug\net5.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\obj\Debug\net5.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\obj\Debug\net5.0\DataBase.AssemblyInfo.cs
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\obj\Debug\net5.0\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\obj\Debug\net5.0\DataBase.csproj.CopyComplete
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\obj\Debug\net5.0\DataBase.dll
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\obj\Debug\net5.0\ref\DataBase.dll
+C:\Users\hp\source\repos\winform_jason\BankAppDataBase\obj\Debug\net5.0\DataBase.pdb

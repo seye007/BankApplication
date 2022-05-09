@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lqSxT43DeP68hEm7AT6U/ExZbWkdfBQkb/PNZDeE8Y0pWwDb4S4kgI71RC7XIgUKj3P0l9hVD7AsSJgxT7y3Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppDataBase\\DataBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppCore\bin\Debug\net5.0\BankAppCore.deps.json
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppCore\bin\Debug\net5.0\BankAppCore.dll
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppCore\bin\Debug\net5.0\ref\BankAppCore.dll
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppCore\bin\Debug\net5.0\BankAppCore.pdb
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.AssemblyInfoInputs.cache
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.AssemblyInfo.cs
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.csproj.CoreCompileInputs.cache
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.dll
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppCore\obj\Debug\net5.0\ref\BankAppCore.dll
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.pdb
+C:\Users\hp\source\repos\weekfour\Task Four\Task Four\BankAppCore\bin\Debug\net5.0\BankAppCore.deps.json
+C:\Users\hp\source\repos\weekfour\Task Four\Task Four\BankAppCore\bin\Debug\net5.0\BankAppCore.dll
+C:\Users\hp\source\repos\weekfour\Task Four\Task Four\BankAppCore\bin\Debug\net5.0\ref\BankAppCore.dll
+C:\Users\hp\source\repos\weekfour\Task Four\Task Four\BankAppCore\bin\Debug\net5.0\BankAppCore.pdb
+C:\Users\hp\source\repos\weekfour\Task Four\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\weekfour\Task Four\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\weekfour\Task Four\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\weekfour\Task Four\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.AssemblyInfo.cs
+C:\Users\hp\source\repos\weekfour\Task Four\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\weekfour\Task Four\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.dll
+C:\Users\hp\source\repos\weekfour\Task Four\Task Four\BankAppCore\obj\Debug\net5.0\ref\BankAppCore.dll
+C:\Users\hp\source\repos\weekfour\Task Four\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.pdb

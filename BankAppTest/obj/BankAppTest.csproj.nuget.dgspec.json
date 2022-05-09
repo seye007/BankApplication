@@ -1,0 +1,408 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppTest\\BankAppTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppContracts\\Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppContracts\\Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppContracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppModel\\Model.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppModel\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppDataBase\\DataBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppDataBase\\DataBase.csproj",
+        "projectName": "DataBase",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppDataBase\\DataBase.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppDataBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppContracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppContracts\\Contracts.csproj"
+              },
+              "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppModel\\Model.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppModel\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppImplementation\\BankServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppImplementation\\BankServices.csproj",
+        "projectName": "BankServices",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppImplementation\\BankServices.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppImplementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppContracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppContracts\\Contracts.csproj"
+              },
+              "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppDataBase\\DataBase.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppDataBase\\DataBase.csproj"
+              },
+              "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppModel\\Model.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppModel\\Model.csproj"
+              },
+              "C:\\Users\\hp\\source\\repos\\winform_jason\\Commons\\Commons.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\Commons\\Commons.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppModel\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppModel\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppModel\\Model.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\source\\repos\\winform_jason\\Commons\\Commons.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\Commons\\Commons.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppTest\\BankAppTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppTest\\BankAppTest.csproj",
+        "projectName": "BankAppTest",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppTest\\BankAppTest.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppContracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppContracts\\Contracts.csproj"
+              },
+              "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppDataBase\\DataBase.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppDataBase\\DataBase.csproj"
+              },
+              "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppImplementation\\BankServices.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppImplementation\\BankServices.csproj"
+              },
+              "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppModel\\Model.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\BankAppModel\\Model.csproj"
+              },
+              "C:\\Users\\hp\\source\\repos\\winform_jason\\Commons\\Commons.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\Commons\\Commons.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.17.2, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\winform_jason\\Commons\\Commons.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\winform_jason\\Commons\\Commons.csproj",
+        "projectName": "Commons",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\Commons\\Commons.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\winform_jason\\Commons\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

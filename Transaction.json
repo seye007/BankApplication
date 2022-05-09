@@ -1,0 +1,87 @@
+{"DateCreated":"03-21-2022","Id":1,"AccountId":1,"TransactionDetail":"Initial Deposit","Operation":"Deposit","Balance":10200.0,"TransactionAmount":10200.0}
+{"DateCreated":"03-21-2022","Id":2,"AccountId":2,"TransactionDetail":"Initial Deposit","Operation":"Deposit","Balance":300.0,"TransactionAmount":300.0}
+{"DateCreated":"03-21-2022","Id":3,"AccountId":1,"TransactionDetail":"seye deji","Operation":"Withdraw","Balance":10000.0,"TransactionAmount":200.0}
+{"DateCreated":"03-21-2022","Id":4,"AccountId":2,"TransactionDetail":"seye deji","Operation":"Deposit","Balance":500.0,"TransactionAmount":200.0}
+{"DateCreated":"03-21-2022","Id":5,"AccountId":3,"TransactionDetail":"Initial Deposit","Operation":"Deposit","Balance":5400.0,"TransactionAmount":5400.0}
+{"DateCreated":"03-21-2022","Id":6,"AccountId":1,"TransactionDetail":"adeola sabejide","Operation":"Withdraw","Balance":9900.0,"TransactionAmount":100.0}
+{"DateCreated":"03-21-2022","Id":7,"AccountId":3,"TransactionDetail":"seye deji","Operation":"Deposit","Balance":5500.0,"TransactionAmount":100.0}
+{"DateCreated":"03-22-2022","Id":8,"AccountId":1,"TransactionDetail":"seye deji","Operation":"Withdraw","Balance":9000.0,"TransactionAmount":900.0}
+{"DateCreated":"03-22-2022","Id":9,"AccountId":2,"TransactionDetail":"seye deji","Operation":"Deposit","Balance":1400.0,"TransactionAmount":900.0}
+{"DateCreated":"03-22-2022","Id":10,"AccountId":4,"TransactionDetail":"Initial Deposit","Operation":"Deposit","Balance":1000.0,"TransactionAmount":1000.0}
+{"DateCreated":"03-22-2022","Id":11,"AccountId":4,"TransactionDetail":"seye deji","Operation":"Withdraw","Balance":0.0,"TransactionAmount":1000.0}
+{"DateCreated":"03-22-2022","Id":12,"AccountId":2,"TransactionDetail":"drone stunner","Operation":"Deposit","Balance":2400.0,"TransactionAmount":1000.0}
+{"DateCreated":"03-23-2022","Id":13,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":9300.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":14,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":9600.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":1,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":10200.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":1,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":10200.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":2,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":10200.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":3,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":10500.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":4,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":10800.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":5,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":11100.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":6,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":11400.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":7,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":11700.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":8,"AccountId":5,"TransactionDetail":"USSD","Operation":"Deposit","Balance":2345.0,"TransactionAmount":2345.0}
+{"DateCreated":"03-23-2022","Id":9,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":12000.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":10,"AccountId":6,"TransactionDetail":"USSD","Operation":"Deposit","Balance":2345.0,"TransactionAmount":2345.0}
+{"DateCreated":"03-23-2022","Id":11,"AccountId":7,"TransactionDetail":"USSD","Operation":"Deposit","Balance":2345.0,"TransactionAmount":2345.0}
+{"DateCreated":"03-23-2022","Id":12,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":12300.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":13,"AccountId":8,"TransactionDetail":"USSD","Operation":"Deposit","Balance":2345.0,"TransactionAmount":2345.0}
+{"DateCreated":"03-23-2022","Id":14,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":12600.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":15,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":12900.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":16,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":13200.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":17,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":13500.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":18,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":13800.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":19,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":16800.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":20,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":19800.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":21,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":22800.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":22,"AccountId":1,"TransactionDetail":"fff","Operation":"Withdraw","Balance":19800.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":23,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":22800.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":24,"AccountId":1,"TransactionDetail":"fff","Operation":"Withdraw","Balance":19800.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":25,"AccountId":4,"TransactionDetail":"fff","Operation":"Withdraw","Balance":-3000.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":26,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":22800.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":27,"AccountId":4,"TransactionDetail":"fff","Operation":"Withdraw","Balance":-6000.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":28,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":25800.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":29,"AccountId":4,"TransactionDetail":"fff","Operation":"Withdraw","Balance":-9000.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":30,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":28800.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":31,"AccountId":4,"TransactionDetail":"fff","Operation":"Withdraw","Balance":-12000.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":32,"AccountId":4,"TransactionDetail":"fff","Operation":"Withdraw","Balance":-12300.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":33,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":31800.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":34,"AccountId":4,"TransactionDetail":"fff","Operation":"Withdraw","Balance":-12600.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":35,"AccountId":4,"TransactionDetail":"fff","Operation":"Withdraw","Balance":-300.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":36,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":34800.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":37,"AccountId":4,"TransactionDetail":"fff","Operation":"Withdraw","Balance":-600.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":38,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":37800.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":39,"AccountId":4,"TransactionDetail":"fff","Operation":"Withdraw","Balance":-300.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":40,"AccountId":4,"TransactionDetail":"fff","Operation":"Withdraw","Balance":-300.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":41,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":40800.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":42,"AccountId":4,"TransactionDetail":"fff","Operation":"Withdraw","Balance":-600.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":43,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":43800.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":44,"AccountId":4,"TransactionDetail":"fff","Operation":"Withdraw","Balance":-300.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":45,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":46800.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":46,"AccountId":4,"TransactionDetail":"fff","Operation":"Withdraw","Balance":-600.0,"TransactionAmount":300.0}
+{"DateCreated":"03-23-2022","Id":47,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":49800.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-23-2022","Id":48,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":52800.0,"TransactionAmount":3000.0}
+{"DateCreated":"03-24-2022","Id":49,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":53100.0,"TransactionAmount":300.0}
+{"DateCreated":"03-24-2022","Id":50,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":53400.0,"TransactionAmount":300.0}
+{"DateCreated":"03-24-2022","Id":51,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":54000.0,"TransactionAmount":300.0}
+{"DateCreated":"03-24-2022","Id":52,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":54300.0,"TransactionAmount":300.0}
+{"DateCreated":"03-24-2022","Id":53,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":54600.0,"TransactionAmount":300.0}
+{"DateCreated":"03-24-2022","Id":54,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":54900.0,"TransactionAmount":300.0}
+{"DateCreated":"03-24-2022","Id":55,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":55200.0,"TransactionAmount":300.0}
+{"DateCreated":"03-24-2022","Id":56,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":55210.0,"TransactionAmount":10.0}
+{"DateCreated":"03-24-2022","Id":57,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":55220.0,"TransactionAmount":10.0}
+{"DateCreated":"03-24-2022","Id":58,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":55230.0,"TransactionAmount":10.0}
+{"DateCreated":"03-24-2022","Id":59,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":55240.0,"TransactionAmount":10.0}
+{"DateCreated":"03-24-2022","Id":60,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":55540.0,"TransactionAmount":300.0}
+{"DateCreated":"03-24-2022","Id":61,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":55840.0,"TransactionAmount":300.0}
+{"DateCreated":"03-24-2022","Id":62,"AccountId":9,"TransactionDetail":"USSD","Operation":"Deposit","Balance":2345.0,"TransactionAmount":2345.0}
+{"DateCreated":"03-24-2022","Id":63,"AccountId":10,"TransactionDetail":"USSD","Operation":"Deposit","Balance":2345.0,"TransactionAmount":2345.0}
+{"DateCreated":"03-24-2022","Id":64,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":56140.0,"TransactionAmount":300.0}
+{"DateCreated":"03-24-2022","Id":65,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":56440.0,"TransactionAmount":300.0}
+{"DateCreated":"03-24-2022","Id":66,"AccountId":11,"TransactionDetail":"USSD","Operation":"Deposit","Balance":2345.0,"TransactionAmount":2345.0}
+{"DateCreated":"03-24-2022","Id":67,"AccountId":12,"TransactionDetail":"USSD","Operation":"Deposit","Balance":2345.0,"TransactionAmount":2345.0}
+{"DateCreated":"03-28-2022","Id":68,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":56740.0,"TransactionAmount":300.0}
+{"DateCreated":"03-28-2022","Id":69,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":57040.0,"TransactionAmount":300.0}
+{"DateCreated":"03-28-2022","Id":70,"AccountId":1,"TransactionDetail":"fff","Operation":"Deposit","Balance":57340.0,"TransactionAmount":300.0}
+{"DateCreated":"05-09-2022","Id":71,"AccountId":5,"TransactionDetail":"Initial Deposit","Operation":"Deposit","Balance":3808.0,"TransactionAmount":3808.0}
+{"DateCreated":"05-09-2022","Id":72,"AccountId":6,"TransactionDetail":"Initial Deposit","Operation":"Deposit","Balance":3000.0,"TransactionAmount":3000.0}

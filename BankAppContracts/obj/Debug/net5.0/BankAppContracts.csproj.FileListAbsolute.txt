@@ -1,0 +1,34 @@
+C:\Users\hp\source\repos\weekfour\BankAppContracts\bin\Debug\net5.0\BankAppContracts.deps.json
+C:\Users\hp\source\repos\weekfour\BankAppContracts\bin\Debug\net5.0\BankAppContracts.dll
+C:\Users\hp\source\repos\weekfour\BankAppContracts\bin\Debug\net5.0\ref\BankAppContracts.dll
+C:\Users\hp\source\repos\weekfour\BankAppContracts\bin\Debug\net5.0\BankAppContracts.pdb
+C:\Users\hp\source\repos\weekfour\BankAppContracts\bin\Debug\net5.0\BankAppModel.dll
+C:\Users\hp\source\repos\weekfour\BankAppContracts\bin\Debug\net5.0\Commons.dll
+C:\Users\hp\source\repos\weekfour\BankAppContracts\bin\Debug\net5.0\BankAppModel.pdb
+C:\Users\hp\source\repos\weekfour\BankAppContracts\bin\Debug\net5.0\Commons.pdb
+C:\Users\hp\source\repos\weekfour\BankAppContracts\obj\Debug\net5.0\BankAppContracts.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\weekfour\BankAppContracts\obj\Debug\net5.0\BankAppContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\weekfour\BankAppContracts\obj\Debug\net5.0\BankAppContracts.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\weekfour\BankAppContracts\obj\Debug\net5.0\BankAppContracts.AssemblyInfo.cs
+C:\Users\hp\source\repos\weekfour\BankAppContracts\obj\Debug\net5.0\BankAppContracts.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\weekfour\BankAppContracts\obj\Debug\net5.0\BankAppContracts.csproj.CopyComplete
+C:\Users\hp\source\repos\weekfour\BankAppContracts\obj\Debug\net5.0\BankAppContracts.dll
+C:\Users\hp\source\repos\weekfour\BankAppContracts\obj\Debug\net5.0\ref\BankAppContracts.dll
+C:\Users\hp\source\repos\weekfour\BankAppContracts\obj\Debug\net5.0\BankAppContracts.pdb
+C:\Users\hp\source\repos\winform jason\BankAppContracts\bin\Debug\net5.0\BankAppContracts.deps.json
+C:\Users\hp\source\repos\winform jason\BankAppContracts\bin\Debug\net5.0\BankAppContracts.dll
+C:\Users\hp\source\repos\winform jason\BankAppContracts\bin\Debug\net5.0\ref\BankAppContracts.dll
+C:\Users\hp\source\repos\winform jason\BankAppContracts\bin\Debug\net5.0\BankAppContracts.pdb
+C:\Users\hp\source\repos\winform jason\BankAppContracts\bin\Debug\net5.0\BankAppModel.dll
+C:\Users\hp\source\repos\winform jason\BankAppContracts\bin\Debug\net5.0\Commons.dll
+C:\Users\hp\source\repos\winform jason\BankAppContracts\bin\Debug\net5.0\BankAppModel.pdb
+C:\Users\hp\source\repos\winform jason\BankAppContracts\bin\Debug\net5.0\Commons.pdb
+C:\Users\hp\source\repos\winform jason\BankAppContracts\obj\Debug\net5.0\BankAppContracts.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\winform jason\BankAppContracts\obj\Debug\net5.0\BankAppContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\winform jason\BankAppContracts\obj\Debug\net5.0\BankAppContracts.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\winform jason\BankAppContracts\obj\Debug\net5.0\BankAppContracts.AssemblyInfo.cs
+C:\Users\hp\source\repos\winform jason\BankAppContracts\obj\Debug\net5.0\BankAppContracts.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\winform jason\BankAppContracts\obj\Debug\net5.0\BankAppContracts.csproj.CopyComplete
+C:\Users\hp\source\repos\winform jason\BankAppContracts\obj\Debug\net5.0\BankAppContracts.dll
+C:\Users\hp\source\repos\winform jason\BankAppContracts\obj\Debug\net5.0\ref\BankAppContracts.dll
+C:\Users\hp\source\repos\winform jason\BankAppContracts\obj\Debug\net5.0\BankAppContracts.pdb

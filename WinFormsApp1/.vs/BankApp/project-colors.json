@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c745e86-51af-4eb5-b070-8e7eb1619440": {
+      "ProjectGuid": "4c745e86-51af-4eb5-b070-8e7eb1619440",
+      "DisplayName": "WinFormsApp1",
+      "ColorIndex": 0
+    },
+    "7c4095bd-c10b-472a-9ef0-eb9bcf3d59d8": {
+      "ProjectGuid": "7c4095bd-c10b-472a-9ef0-eb9bcf3d59d8",
+      "DisplayName": "BankAppContracts",
+      "ColorIndex": 1
+    },
+    "2c3e9689-40c0-49ce-b50b-770f05da72a8": {
+      "ProjectGuid": "2c3e9689-40c0-49ce-b50b-770f05da72a8",
+      "DisplayName": "Contracts",
+      "ColorIndex": 2
+    },
+    "fd2b04cb-74f6-43c2-859a-7c2e2adc2a79": {
+      "ProjectGuid": "fd2b04cb-74f6-43c2-859a-7c2e2adc2a79",
+      "DisplayName": "DataBase",
+      "ColorIndex": 3
+    },
+    "02d3410b-5d81-4675-8655-ae3de701fb38": {
+      "ProjectGuid": "02d3410b-5d81-4675-8655-ae3de701fb38",
+      "DisplayName": "Model",
+      "ColorIndex": 4
+    },
+    "12514df3-121a-45aa-b877-5769586d3f7f": {
+      "ProjectGuid": "12514df3-121a-45aa-b877-5769586d3f7f",
+      "DisplayName": "Commons",
+      "ColorIndex": 5
+    },
+    "ffddf462-5df2-4ac7-b87b-9ed7b32381d7": {
+      "ProjectGuid": "ffddf462-5df2-4ac7-b87b-9ed7b32381d7",
+      "DisplayName": "BankServices",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "716ed157-0eaf-472a-a001-b28e20c189e2": {
+      "ProjectGuid": "716ed157-0eaf-472a-a001-b28e20c189e2",
+      "DisplayName": "BankAppTest",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
